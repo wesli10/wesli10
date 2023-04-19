@@ -21,5 +21,5 @@
   <img alt='html5' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 </div> <br/>
 
-Eu tenho trabalhado há mais de um ano em novos projetos e manutenção de projetos, principalmente em fintechs. Eu sou apaixonado por desenvolvimento frontend e integração com novas tecnologias.
+### Eu tenho trabalhado há mais de um ano em novos projetos e manutenção de projetos, principalmente em fintechs. Eu sou apaixonado por desenvolvimento frontend e integração com novas tecnologias.
 
