@@ -20,7 +20,8 @@
   <img alt='postgreSQL' src='https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white'>
   <img alt='python' src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
   <img alt='solidity' src='https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white'>
+  <img alt='hyperledger' src='https://img.shields.io/badge/Hyperledger-%23363636.svg?style=for-the-badge&logo=hyperledger&logoColor=white'>
 </div> <br/>
 
-### Eu tenho trabalhado há mais de um ano em novos projetos e manutenção de projetos, principalmente em fintechs. Eu sou apaixonado por desenvolvimento frontend e integração com novas tecnologias.
+### Desenvolvedor com experiência em soluções blockchain utilizando Solidity, Hardhat, Foundry e Truffle. Atuei na criação de smart contracts (ERC-20, ERC-721), DApps que conectam Web2 e Web3, e projetos em redes como Ethereum, Polygon, Arbitrum e Optimism. Também trabalhei com IPFS, The Graph e Hyperledger Fabric em soluções de rastreabilidade e integração com sistemas tradicionais. Foco em segurança, escalabilidade e usabilidade.
 
