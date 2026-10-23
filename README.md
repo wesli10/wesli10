@@ -1,22 +1,32 @@
 # Wesley Lins Soares
 
-Engenheiro de Software Backend em São Paulo, com foco em sistemas distribuídos e arquitetura orientada a eventos.
+```console
+wesley@sao-paulo:~$ whoami
+Engenheiro de Software Backend
+
+wesley@sao-paulo:~$ cat focus.txt
+sistemas distribuídos // arquitetura orientada a eventos // plataformas financeiras de alta confiabilidade
+
+wesley@sao-paulo:~$ _
+```
 
 Trabalho com plataformas financeiras de alta confiabilidade, em especial custódia de ativos, projetando serviços resilientes e escaláveis em Java e Spring Boot, mensageria e cloud. Já atuei também com full-stack e em times remotos dos EUA, o que me deu uma visão ampla de produto.
 
-## No dia a dia
+## > no dia a dia
 
 - Serviços event-driven com Kafka, SQS e SNS
 - Observabilidade e troubleshooting em produção (Axiom, logs, métricas)
 - Adoção de desenvolvimento assistido por IA no ciclo de engenharia (AI-DLC)
 
-## Projetos pessoais
+## > stack
 
-- **Ferramenta de cortes de vídeo com IA:** recebe o link de um vídeo do YouTube, transcreve localmente na GPU, usa um LLM para escolher os melhores trechos e entrega shorts (9:16) e vídeos longos (16:9) já legendados, com título, descrição e hashtags. Pipeline em Python com estágios idempotentes.
-- **Marketplace bilíngue (PT/EN) de soluções SaaS (em construção):** diretório para PMEs com categorias, busca full-text, comparação lado a lado, rankings, avaliações verificadas por e-mail com moderação e assistente de IA. API em Java e Spring Boot com PostgreSQL e front-end web, desenvolvido de forma spec-driven.
+![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=00f0ff)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=for-the-badge&logo=springboot&logoColor=00f0ff)
+![Kafka](https://img.shields.io/badge/Kafka-1a1a2e?style=for-the-badge&logo=apachekafka&logoColor=ff2a9d)
+![AWS](https://img.shields.io/badge/AWS_SQS%2FSNS-1a1a2e?style=for-the-badge&logo=amazonwebservices&logoColor=ff2a9d)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=00f0ff)
+![Python](https://img.shields.io/badge/Python-1a1a2e?style=for-the-badge&logo=python&logoColor=ff2a9d)
+![TypeScript](https://img.shields.io/badge/TypeScript-1a1a2e?style=for-the-badge&logo=typescript&logoColor=00f0ff)
+![React](https://img.shields.io/badge/React-1a1a2e?style=for-the-badge&logo=react&logoColor=ff2a9d)
 
-**Stack:** Java · Spring Boot · Kafka · SQS/SNS · AWS · PostgreSQL · Python · Node.js/TypeScript · React
-
-**Formação:** Gestão da Tecnologia da Informação
-
-[LinkedIn](https://www.linkedin.com/in/wesleylins/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a2e?style=for-the-badge&logo=linkedin&logoColor=00f0ff)](https://www.linkedin.com/in/wesleylins/)
