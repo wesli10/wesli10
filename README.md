@@ -1,4 +1,4 @@
-<h1><img src="assets/banner.svg" alt="Wesley Lins Soares"></h1>
+<h1><img src="assets/banner-v2.svg" alt="Wesley Lins Soares"></h1>
 
 ```console
 wesley@grid:~$ whoami
