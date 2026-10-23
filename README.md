@@ -1,4 +1,4 @@
-# Wesley Lins Soares
+<h1><img src="assets/banner.svg" alt="Wesley Lins Soares"></h1>
 
 ```console
 wesley@grid:~$ whoami
@@ -11,6 +11,11 @@ wesley@grid:~$ _
 ```
 
 I work on high-reliability financial platforms, especially asset custody, designing resilient and scalable services in Java and Spring Boot, messaging and cloud. I also build low-latency systems in Go, such as trade order systems. I have worked full-stack and with remote US teams, which gave me a broad product perspective.
+
+```text
+# event-driven order flow
+order --> kafka --> matching --> settlement --> ledger
+```
 
 ## > day to day
 
