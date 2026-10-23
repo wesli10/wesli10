@@ -6,17 +6,22 @@ $ ./boot --profile wesley
 [  OK  ] event-driven architecture
 [  OK  ] low-latency systems
 [  OK  ] high-reliability financial platforms
+[  OK  ] embeddings
+[  OK  ] vector search
+[  OK  ] agent harness
 [ LOAD ] AI-assisted development
 $ _
 ```
 
-I work on **high-reliability financial platforms**, especially **asset custody**, designing resilient and scalable services in **Java and Spring Boot**, **messaging** and **cloud**. I also build **low-latency systems in Go**, such as **trade order systems**. I have worked **full-stack** and with **remote US teams**, which gave me a broad product perspective.
+I work on **high-reliability financial platforms**, especially **asset custody**, designing resilient and scalable services in **Java and Spring Boot**, **messaging** and **cloud**. I also build **low-latency systems in Go**, such as **trade order systems**. I have worked **full-stack** and with **remote US teams**, which gave me a broad product perspective. On the AI side, I work with **embeddings**, **vector search** and **agent harnesses**.
 
 ## > day to day
 
 - **Event-driven services** with Kafka, SQS and SNS
 - **Low-latency systems** in Go, including trade order systems
 - **Observability** and production troubleshooting (Axiom, logs, metrics)
+- **Embeddings and vector search** for semantic retrieval
+- **Agent harnesses** that put LLMs to work reliably in real workflows
 - **AI-assisted development** across the engineering cycle (AI-DLC)
 
 ## > stack
