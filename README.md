@@ -1,27 +1,29 @@
 # Wesley Lins Soares
 
 ```console
-wesley@sao-paulo:~$ whoami
-Engenheiro de Software Backend
+wesley@grid:~$ whoami
+Backend Software Engineer
 
-wesley@sao-paulo:~$ cat focus.txt
-sistemas distribuídos // arquitetura orientada a eventos // plataformas financeiras de alta confiabilidade
+wesley@grid:~$ cat focus.txt
+distributed systems // event-driven architecture // low-latency systems // high-reliability financial platforms
 
-wesley@sao-paulo:~$ _
+wesley@grid:~$ _
 ```
 
-Trabalho com plataformas financeiras de alta confiabilidade, em especial custódia de ativos, projetando serviços resilientes e escaláveis em Java e Spring Boot, mensageria e cloud. Já atuei também com full-stack e em times remotos dos EUA, o que me deu uma visão ampla de produto.
+I work on high-reliability financial platforms, especially asset custody, designing resilient and scalable services in Java and Spring Boot, messaging and cloud. I also build low-latency systems in Go, such as trade order systems. I have worked full-stack and with remote US teams, which gave me a broad product perspective.
 
-## > no dia a dia
+## > day to day
 
-- Serviços event-driven com Kafka, SQS e SNS
-- Observabilidade e troubleshooting em produção (Axiom, logs, métricas)
-- Adoção de desenvolvimento assistido por IA no ciclo de engenharia (AI-DLC)
+- Event-driven services with Kafka, SQS and SNS
+- Low-latency systems in Go, including trade order systems
+- Observability and production troubleshooting (Axiom, logs, metrics)
+- Adopting AI-assisted development across the engineering cycle (AI-DLC)
 
 ## > stack
 
 ![Java](https://img.shields.io/badge/Java-1a1a2e?style=for-the-badge&logo=openjdk&logoColor=00f0ff)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a2e?style=for-the-badge&logo=springboot&logoColor=00f0ff)
+![Go](https://img.shields.io/badge/Go-1a1a2e?style=for-the-badge&logo=go&logoColor=00f0ff)
 ![Kafka](https://img.shields.io/badge/Kafka-1a1a2e?style=for-the-badge&logo=apachekafka&logoColor=ff2a9d)
 ![AWS](https://img.shields.io/badge/AWS_SQS%2FSNS-1a1a2e?style=for-the-badge&logo=amazonwebservices&logoColor=ff2a9d)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a2e?style=for-the-badge&logo=postgresql&logoColor=00f0ff)
